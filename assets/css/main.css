@@ -1192,12 +1192,12 @@
 		}
 
 	.button-big {
-		background-image: -moz-linear-gradient(top, #ed391b, #ce1a00);
-		background-image: -webkit-linear-gradient(top, #ed391b, #ce1a00);
-		background-image: -ms-linear-gradient(top, #ed391b, #ce1a00);
-		background-image: linear-gradient(top, #ed391b, #ce1a00);
+		background-image: -moz-linear-gradient(top, #f7dca4, #f0b334);
+		background-image: -webkit-linear-gradient(top, #f7dca4, #f0b334);
+		background-image: -ms-linear-gradient(top, #f7dca4, #f0b334);
+		background-image: linear-gradient(top, #f7dca4, #f0b334);
 		display: inline-block;
-		background-color: #ed391b;
+		background-color: #f7dca4;
 		color: #fff;
 		text-decoration: none;
 		font-size: 1.75em;
