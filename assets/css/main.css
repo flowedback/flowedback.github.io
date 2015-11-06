@@ -1122,12 +1122,12 @@
 		}
 
 		a:hover {
-			color: #ed786a;
+			color: #fdb82e;
 			border-bottom-color: rgba(255, 255, 255, 0);
 		}
 
 			a:hover strong {
-				color: #ed786a;
+				color: #fdb82e;
 			}
 
 	strong, b {
