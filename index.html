@@ -4,20 +4,52 @@ layout: default
 
 <div class="home">
 
-  <h1 class="page-heading">Posts</h1>
+				<div id="features-wrapper">
+					<section id="features" class="container">
+						
+						<div class="row">
+							<div class="4u 12u(mobile)">
 
-  <ul class="post-list">
-    {% for post in site.posts %}
-      <li>
-        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+									<section>
+										<a href="#" class="image featured"><img src="images/ESR034h.jpg" alt="" /></a>
+										<header>
+											<h3>Okay, so what is Umbrella?</h3>
+										</header>
+										<p><strong>Umbrella</strong> is a federated identity system for users of 
+										<strong>large neutron and photon facilities</strong>.</p>
+									</section>
 
-        <h2>
-          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-        </h2>
-      </li>
-    {% endfor %}
-  </ul>
+							</div>
+							<div class="4u 12u(mobile)">
 
-  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
+									<section>
+										<a href="#" class="image featured"><img src="images/umbrella-logo.jpg" alt="" /></a>
+										<header>
+											<h3>Nice! How can I use it?</h3>
+										</header>
+										<p><strong>Umbrella</strong> is built on top of the existing local IT infrastructures and it 
+										links its identity in a once-only action directly to the local identity at 
+										the respective facility.</p>
+									</section>
+
+							</div>
+							<div class="4u 12u(mobile)">
+
+									<section>
+										<a href="#" class="image featured"><img src="images/SwissFEL-pano.png" alt="" /></a>
+										<header>
+											<h3>Great! Where can I use it?</h3>
+										</header>
+										<p>Umbrella can be used at following facilities: <strong>ALBA, DESY, DLS, Elettra, ESRF, 
+										ILL, ISIS, KIT, MAX IV, PSI, SOLEIL and at the University of Oxford The Division of Structural Biology</strong>.</p>
+									</section>
+
+							</div>
+						</div>
+						<ul class="actions">
+							<li><a href="https://umbrellaid.org/euu/account/create" target="_blank" class="button icon fa-file">Signup with Umbrella</a></li>
+						</ul>
+					</section>
+				</div>
 
 </div>
