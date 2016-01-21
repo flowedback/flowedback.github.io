@@ -12,11 +12,10 @@
 /* Reset */
 #hor-minimalist-a
 {
-	font-family: "Lucida Sans Unicode", "Lucida Grande", Sans-Serif;
 	font-size: 12px;
 	background: #fff;
 	margin: 45px;
-	width: 480px;
+	width: 1200;
 	border-collapse: collapse;
 	text-align: left;
 }
