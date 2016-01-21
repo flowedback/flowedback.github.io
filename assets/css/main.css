@@ -12,7 +12,7 @@
 /* Reset */
 #hor-minimalist-a
 {
-	font-size: 12px;
+	font-size: 0.85em;
 	background: #fff;
 	margin: 45px;
 	width: 1110px;
@@ -21,7 +21,7 @@
 }
 #hor-minimalist-a th
 {
-	font-size: 14px;
+	font-size: 0.95em;
 	font-weight: bold;
 	padding: 10px 8px;
 	border-bottom: 1px solid #ccc;
