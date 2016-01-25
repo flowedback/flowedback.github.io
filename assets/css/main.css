@@ -29,6 +29,11 @@
 	#hor-minimalist-a td
 	{
 		padding: 9px 8px 0px 8px;
+		vertical-align: middle;
+	}
+	#hor-minimalist-a tbody tr:hover td
+	{
+		background: #fff;
 	}
 	.bg {
 		background: #F6F6F6 none repeat scroll 0% 0%;
