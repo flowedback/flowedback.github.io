@@ -10,6 +10,26 @@
 */
 
 /* Reset */
+#hor-minimalist-a
+{
+	font-size: 0.85em;
+	background: #fff;
+	margin: 45px;
+	width: 1110px;
+	border-collapse: collapse;
+	text-align: left;
+}
+#hor-minimalist-a th
+{
+	font-size: 0.95em;
+	font-weight: bold;
+	padding: 10px 8px;
+	border-bottom: 1px solid #ccc;
+}
+#hor-minimalist-a td
+{
+	padding: 9px 8px 0px 8px;
+}
 
 	html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, big, cite, code, del, dfn, em, img, ins, kbd, q, s, samp, small, strike, strong, sub, sup, tt, var, b, u, i, center, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td, article, aside, canvas, details, embed, figure, figcaption, footer, header, hgroup, menu, nav, output, ruby, section, summary, time, mark, audio, video {
 		margin: 0;
@@ -317,7 +337,7 @@
 	}
 
 	.\38 u, .\38 u\24 {
-		width: 66.6666666667%;
+		width: 100%;
 		clear: none;
 		margin-left: 0;
 	}
@@ -1830,7 +1850,7 @@
 		/* Wrappers */
 
 			#features-wrapper {
-				padding: 6em 0 6em 0;
+				padding: 0em 0 0em 0;
 			}
 
 			#banner-wrapper {
@@ -1838,7 +1858,7 @@
 			}
 
 			#main-wrapper {
-				padding: 6em 0 6em 0;
+				padding: 0em 0 6em 0;
 			}
 
 			#footer-wrapper {
@@ -1848,7 +1868,7 @@
 		/* Header */
 
 			#header {
-				padding: 14em 0 7em 0;
+				padding: 8em 0 3em 0;
 			}
 
 				#header h1 {
