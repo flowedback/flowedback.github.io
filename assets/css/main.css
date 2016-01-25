@@ -24,12 +24,13 @@
 		font-size: 0.95em;
 		font-weight: bold;
 		padding: 10px 8px;
-		border-bottom: 1px solid #ccc;
+		border-bottom: 2px solid #ccc;
 	}
 	#hor-minimalist-a td
 	{
 		padding: 9px 8px 0px 8px;
 		vertical-align: middle;
+		border-bottom: 1px dotted #ccc;
 	}
 	#hor-minimalist-a tbody tr:hover td
 	{
