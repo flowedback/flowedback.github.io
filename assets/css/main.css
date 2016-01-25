@@ -10,27 +10,33 @@
 */
 
 /* Reset */
-#hor-minimalist-a
-{
-	font-size: 0.85em;
-	background: #fff;
-	margin: 45px;
-	width: 500px;
-	border-collapse: collapse;
-	text-align: center;
-}
-#hor-minimalist-a th
-{
-	font-size: 0.95em;
-	font-weight: bold;
-	padding: 10px 8px;
-	border-bottom: 1px solid #ccc;
-}
-#hor-minimalist-a td
-{
-	padding: 9px 8px 0px 8px;
-}
-
+	#hor-minimalist-a
+	{
+		font-size: 0.85em;
+		background: #fff;
+		margin: 45px;
+		width: 500px;
+		border-collapse: collapse;
+		text-align: center;
+	}
+	#hor-minimalist-a th
+	{
+		font-size: 0.95em;
+		font-weight: bold;
+		padding: 10px 8px;
+		border-bottom: 1px solid #ccc;
+	}
+	#hor-minimalist-a td
+	{
+		padding: 9px 8px 0px 8px;
+	}
+	.bg {
+		background: #F6F6F6 none repeat scroll 0% 0%;
+		border-top-right-radius: 12px;
+		border-bottom-left-radius: 12px;
+		padding: 12px 15px;
+		margin-bottom: 20px;
+	}
 	html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, big, cite, code, del, dfn, em, img, ins, kbd, q, s, samp, small, strike, strong, sub, sup, tt, var, b, u, i, center, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td, article, aside, canvas, details, embed, figure, figcaption, footer, header, hgroup, menu, nav, output, ruby, section, summary, time, mark, audio, video {
 		margin: 0;
 		padding: 0;
