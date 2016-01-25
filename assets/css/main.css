@@ -31,10 +31,11 @@
 		padding: 9px 8px 0px 8px;
 		vertical-align: middle;
 		border-bottom: 1px dotted #ccc;
+		background: #fff;
 	}
 	#hor-minimalist-a tbody tr:hover td
 	{
-		background: #fff;
+		background: #F6F6F6;
 	}
 	.bg {
 		background: #F6F6F6 none repeat scroll 0% 0%;
