@@ -1286,6 +1286,7 @@
 		-ms-transition: opacity 0.25s ease-in-out;
 		transition: opacity 0.25s ease-in-out;
 		display: inline-block;
+		max-width: 100%;
 	}
 
 		.imageNB:hover {
