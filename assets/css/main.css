@@ -1265,6 +1265,52 @@
 	article:last-child {
 		margin-bottom: 0;
 	}
+/* Image No Border*/
+
+	.imageNB {
+		-moz-transition: opacity 0.25s ease-in-out;
+		-webkit-transition: opacity 0.25s ease-in-out;
+		-ms-transition: opacity 0.25s ease-in-out;
+		transition: opacity 0.25s ease-in-out;
+		display: inline-block;
+	}
+
+		.imageNB:hover {
+			opacity: 0.9;
+		}
+
+		.imageNB img {
+			display: block;
+			width: 100%;
+		}
+
+		.imageNB.fit {
+			display: block;
+			width: 100%;
+		}
+
+		.imageNB.featured {
+			display: block;
+			width: 100%;
+			margin: 0 0 3.5em 0;
+		}
+
+		.imageNB.left {
+			float: left;
+			margin: 0 1.5em 1.5em 0;
+			position: relative;
+			top: 0.5em;
+		}
+
+		.imageNB.centered {
+			display: block;
+			margin: 0 0 2em 0;
+		}
+
+		.imageNB.centered img {
+			margin: 0 auto;
+			width: auto;
+		}
 
 /* Image */
 
