@@ -19,6 +19,45 @@
 		border-collapse: collapse;
 		text-align: left;
 	}
+	
+	
+	@media screen and (min-width: 737px) {
+		#hor-minimalist-a
+		{
+			font-size: 0.85em;
+			/* background: #fff; */
+			margin: 45px;
+			width: 1080px;
+			border-collapse: collapse;
+			text-align: left;
+		}
+
+	}
+
+	@media screen and (min-width: 737px) and (max-width: 1200px) {
+		#hor-minimalist-a
+		{
+			font-size: 0.85em;
+			/* background: #fff; */
+			margin: 45px;
+			width: 960px;
+			border-collapse: collapse;
+			text-align: left;
+		}
+	}
+
+	@media screen and (max-width: 736px) {
+		#hor-minimalist-a
+		{
+			font-size: 0.85em;
+			/* background: #fff; */
+			margin: 45px;
+			width: 400px;
+			border-collapse: collapse;
+			text-align: left;
+		}
+	}
+	
 	#hor-minimalist-a th
 	{
 		font-size: 0.95em;
