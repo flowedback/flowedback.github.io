@@ -1619,7 +1619,7 @@
 		position: relative;
 		overflow: hidden;
 		background: #fff;
-		text-align: center;
+		text-align: left;
 	}
 
 		#features-wrapper p {
