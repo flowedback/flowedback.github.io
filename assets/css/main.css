@@ -16,6 +16,11 @@
     		position: relative;
     		top: 85px;
 	}
+	
+	.resizeimage
+	{
+		max-width: 100%;
+	}
 
 /* Reset */
 	#hor-minimalist-a
