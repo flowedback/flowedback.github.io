@@ -1475,7 +1475,7 @@
 	}
 
 	form input[type="text"],
-	form input[type="email"]
+	form input[type="email"],
 	input[type="password"],
 	form select,
 	form textarea {
@@ -1487,7 +1487,7 @@
 		display: block;
 		border: 0;
 		background: #e8e8e8;
-		width: 250px;
+		width: 100%;
 		box-shadow: inset 2px 2px 0px 0px rgba(0, 0, 0, 0.1);
 		border-radius: 4px;
 		line-height: 1.25em;
